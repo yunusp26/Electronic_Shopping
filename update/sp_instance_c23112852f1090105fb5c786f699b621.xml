@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css>.empty-state-content {
+  background-color: rgba(58, 63, 81, 0.7);
+  color: $gray-light;
+}
+
+.list-group-item {
+  background-color: rgba(58, 63, 81, 0.7);
+  border: 0px solid transparent;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.60);
+}
+
+.list-group-item:last-child {
+  border: 0px solid transparent;
+}
+
+.panel-heading {
+  background-color: rgba(138, 143, 160, 0.6);
+  border-bottom: 0px solid transparent;
+  color: #fff;
+}
+
+.panel {
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  background: none;
+}
+
+.panel-footer {
+  display: none;
+}
+
+a {
+color: #fff;
+}
+
+.text-muted {
+  color: #fff;
+}</css>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">863112852f1090105fb5c786f699b61d</sp_column>
+        <sp_widget display_value="Popular Questions">e0c3a791d721120023c84f80de610304</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-19 06:33:42</sys_created_on>
+        <sys_id>c23112852f1090105fb5c786f699b621</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Electronic_Shopping" source="x_462903_electroni">7f9bbbb82fd450105fb5c786f699b63d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Electronic_Shopping">7f9bbbb82fd450105fb5c786f699b63d</sys_scope>
+        <sys_update_name>sp_instance_c23112852f1090105fb5c786f699b621</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-19 06:33:42</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=c23112852f1090105fb5c786f699b621"/>
+</record_update>

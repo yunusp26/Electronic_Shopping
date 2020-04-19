@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_segment">
+    <sys_sg_item_stream_segment action="INSERT_OR_UPDATE">
+        <interleave_order_direction>asc</interleave_order_direction>
+        <name>rental Item Stream Segment</name>
+        <order>0</order>
+        <screen display_value="rentals">2f0ff3bc2fd450105fb5c786f699b63d</screen>
+        <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-18 19:55:07</sys_created_on>
+        <sys_id>2b0ff3bc2fd450105fb5c786f699b63e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>rental Item Stream Segment</sys_name>
+        <sys_package display_value="Electronic_Shopping" source="x_462903_electroni">7f9bbbb82fd450105fb5c786f699b63d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Electronic_Shopping">7f9bbbb82fd450105fb5c786f699b63d</sys_scope>
+        <sys_update_name>sys_sg_item_stream_segment_2b0ff3bc2fd450105fb5c786f699b63e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-18 19:55:07</sys_updated_on>
+    </sys_sg_item_stream_segment>
+</record_update>

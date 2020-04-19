@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="cmdb_ci" label="configuration_items" max_length="40" name="x_462903_electroni_configuration_items" type="collection"/>
+</database>

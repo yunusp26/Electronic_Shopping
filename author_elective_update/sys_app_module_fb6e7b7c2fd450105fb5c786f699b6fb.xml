@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Electronic_Shopping">ef6efb3c2fd450105fb5c786f699b654</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>NEW</link_type>
+        <map_page/>
+        <mobile_title>Create New</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_462903_electroni_rental</name>
+        <order>8</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-18 19:52:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>fb6e7b7c2fd450105fb5c786f699b6fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Electronic_Shopping" source="x_462903_electroni">7f9bbbb82fd450105fb5c786f699b63d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Electronic_Shopping">7f9bbbb82fd450105fb5c786f699b63d</sys_scope>
+        <sys_update_name>sys_app_module_fb6e7b7c2fd450105fb5c786f699b6fb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-18 19:52:23</sys_updated_on>
+        <timeline_page/>
+        <title>Create New</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Electronic_Shopping">7f9bbbb82fd450105fb5c786f699b63d</application>
+        <file_path/>
+        <instance_id>399f219adbd940140ae3ac44d49619be</instance_id>
+        <instance_name>dev95260</instance_name>
+        <name>sys_app_module_fb6e7b7c2fd450105fb5c786f699b6fb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Electronic_Shopping">ef6efb3c2fd450105fb5c786f699b654</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>NEW</link_type><map_page/><mobile_title>Create New</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_462903_electroni_rental</name><order>8</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-18 19:52:23</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>fb6e7b7c2fd450105fb5c786f699b6fb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Create New</sys_name><sys_overrides/><sys_package display_value="Electronic_Shopping" source="x_462903_electroni">7f9bbbb82fd450105fb5c786f699b63d</sys_package><sys_policy/><sys_scope display_value="Electronic_Shopping">7f9bbbb82fd450105fb5c786f699b63d</sys_scope><sys_update_name>sys_app_module_fb6e7b7c2fd450105fb5c786f699b6fb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-18 19:52:23</sys_updated_on><timeline_page/><title>Create New</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1975519039</payload_hash>
+        <record_name>Create New</record_name>
+        <reverted_from/>
+        <source>bb9bbbb82fd450105fb5c786f699b640</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-18 19:52:23</sys_created_on>
+        <sys_id>736e7b7c2fd450105fb5c786f699b6fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1718ed963010000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-18 19:52:23</sys_updated_on>
+        <type>Module</type>
+        <update_guid>bb6e7b7c8bd45010860614183567f9fc</update_guid>
+        <update_guid_history>bb6e7b7c8bd45010860614183567f9fc:1975519039</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Create New">2e22d4c12f5850105fb5c786f699b68f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-18 21:18:35</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>0f4c389835a5414a910cd8e01e8b5404</sys_id>
+        <sys_metadata>fb6e7b7c2fd450105fb5c786f699b6fb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New</sys_name>
+        <sys_package display_value="Electronic_Shopping" source="x_462903_electroni">7f9bbbb82fd450105fb5c786f699b63d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Electronic_Shopping">7f9bbbb82fd450105fb5c786f699b63d</sys_scope>
+        <sys_scope_delete display_value="">a4b1541d76cc4340abc7883e468b7b69</sys_scope_delete>
+        <sys_update_name>sys_app_module_fb6e7b7c2fd450105fb5c786f699b6fb</sys_update_name>
+        <sys_update_version display_value="sys_app_module_fb6e7b7c2fd450105fb5c786f699b6fb">736e7b7c2fd450105fb5c786f699b6fd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-18 21:18:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal">
+    <sp_portal action="DELETE">
+        <css_variables/>
+        <default>false</default>
+        <homepage display_value="new_home">ecc1d2852f1090105fb5c786f699b616</homepage>
+        <icon/>
+        <kb_knowledge_base/>
+        <kb_knowledge_page/>
+        <login_page display_value="copy_of_landing_1">b931da452f1090105fb5c786f699b6a4</login_page>
+        <logo/>
+        <notfound_page/>
+        <quick_start_config/>
+        <sc_catalog/>
+        <sc_catalog_page/>
+        <sc_category_page/>
+        <sp_chat_queue/>
+        <sp_rectangle_menu display_value="SP Header Menu">d150fd31cb10020000f8d856634c9ce6</sp_rectangle_menu>
+        <sqanda_knowledge_base/>
+        <sys_class_name>sp_portal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-19 06:28:52</sys_created_on>
+        <sys_id>37df8a052f1090105fb5c786f699b6d7</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Welcome To Electronic Shopping</sys_name>
+        <sys_package display_value="Electronic_Shopping" source="x_462903_electroni">7f9bbbb82fd450105fb5c786f699b63d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Electronic_Shopping">7f9bbbb82fd450105fb5c786f699b63d</sys_scope>
+        <sys_update_name>sp_portal_37df8a052f1090105fb5c786f699b6d7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-19 06:44:04</sys_updated_on>
+        <theme display_value="La Jolla">a7a6e78277002300a6e592718a10617a</theme>
+        <title>Welcome To Electronic Shopping</title>
+        <ts_index_group/>
+        <url_suffix>new_electronic</url_suffix>
+    </sp_portal>
+    <sys_translated_text action="DELETE" query="documentkey=37df8a052f1090105fb5c786f699b6d7"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Electronic_Shopping">7f9bbbb82fd450105fb5c786f699b63d</application>
+        <file_path/>
+        <instance_id>399f219adbd940140ae3ac44d49619be</instance_id>
+        <instance_name>dev95260</instance_name>
+        <name>sp_portal_37df8a052f1090105fb5c786f699b6d7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal"><sp_portal action="INSERT_OR_UPDATE"><css_variables/><default>false</default><homepage display_value="new_home">ecc1d2852f1090105fb5c786f699b616</homepage><icon/><kb_knowledge_base/><kb_knowledge_page/><login_page display_value="copy_of_landing_1">b931da452f1090105fb5c786f699b6a4</login_page><logo/><notfound_page/><quick_start_config/><sc_catalog/><sc_catalog_page/><sc_category_page/><sp_chat_queue/><sp_rectangle_menu display_value="SP Header Menu">d150fd31cb10020000f8d856634c9ce6</sp_rectangle_menu><sqanda_knowledge_base/><sys_class_name>sp_portal</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-19 06:28:52</sys_created_on><sys_id>37df8a052f1090105fb5c786f699b6d7</sys_id><sys_mod_count>4</sys_mod_count><sys_name>Welcome To Electronic Shopping</sys_name><sys_package display_value="Electronic_Shopping" source="x_462903_electroni">7f9bbbb82fd450105fb5c786f699b63d</sys_package><sys_policy/><sys_scope display_value="Electronic_Shopping">7f9bbbb82fd450105fb5c786f699b63d</sys_scope><sys_update_name>sp_portal_37df8a052f1090105fb5c786f699b6d7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-19 06:44:04</sys_updated_on><theme display_value="La Jolla">a7a6e78277002300a6e592718a10617a</theme><title>Welcome To Electronic Shopping</title><ts_index_group/><url_suffix>new_electronic</url_suffix></sp_portal><sys_translated_text action="delete_multiple" query="documentkey=37df8a052f1090105fb5c786f699b6d7"/></record_update>]]></payload>
+        <payload_hash>-1645930512</payload_hash>
+        <record_name>Welcome To Electronic Shopping</record_name>
+        <reverted_from/>
+        <source>bb9bbbb82fd450105fb5c786f699b640</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-19 06:44:04</sys_created_on>
+        <sys_id>42935ec52f1090105fb5c786f699b68e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171912e066a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-19 06:44:04</sys_updated_on>
+        <type>Service Portal</type>
+        <update_guid>ca935ec5e7109010b76a6013188c8a8d</update_guid>
+        <update_guid_history>ca935ec5e7109010b76a6013188c8a8d:-1645930512,a6411285721090102d2f38477d10c57e:-917200547,1f801645231090100877ee819fcea283:-1127689757,196092454c1090107b0c7a1db164ecae:-1581580568,5f1056052710901064bc56b3d24b4f11:-571095259</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Welcome To Electronic Shopping">f3317e412f9090105fb5c786f699b663</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-19 08:53:38</sys_created_on>
+        <sys_db_object display_value="" name="sp_portal">sp_portal</sys_db_object>
+        <sys_id>7b426494aa2c4122b243b4d128bbaeb9</sys_id>
+        <sys_metadata>37df8a052f1090105fb5c786f699b6d7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Welcome To Electronic Shopping</sys_name>
+        <sys_package display_value="Electronic_Shopping" source="x_462903_electroni">7f9bbbb82fd450105fb5c786f699b63d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Electronic_Shopping">7f9bbbb82fd450105fb5c786f699b63d</sys_scope>
+        <sys_scope_delete display_value="">a4b1541d76cc4340abc7883e468b7b69</sys_scope_delete>
+        <sys_update_name>sp_portal_37df8a052f1090105fb5c786f699b6d7</sys_update_name>
+        <sys_update_version display_value="sp_portal_37df8a052f1090105fb5c786f699b6d7">42935ec52f1090105fb5c786f699b68e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-19 08:53:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

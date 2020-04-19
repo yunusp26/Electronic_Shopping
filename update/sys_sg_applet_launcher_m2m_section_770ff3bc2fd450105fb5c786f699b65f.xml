@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
+        <applet_launcher display_value="Electronic_Shopping">5f0fb7f82fd450105fb5c786f699b65c</applet_launcher>
+        <order/>
+        <section display_value="rental">f30ff3bc2fd450105fb5c786f699b65e</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-18 19:55:07</sys_created_on>
+        <sys_id>770ff3bc2fd450105fb5c786f699b65f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Electronic_Shopping" source="x_462903_electroni">7f9bbbb82fd450105fb5c786f699b63d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Electronic_Shopping">7f9bbbb82fd450105fb5c786f699b63d</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_770ff3bc2fd450105fb5c786f699b65f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-18 19:55:07</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+</record_update>

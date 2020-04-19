@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <name>Electronic_Shopping configuration_items</name>
+        <query_condition/>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-18 19:55:06</sys_created_on>
+        <sys_id>a30ff3bc2fd450105fb5c786f699b60e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Electronic_Shopping configuration_items</sys_name>
+        <sys_package display_value="Electronic_Shopping" source="x_462903_electroni">7f9bbbb82fd450105fb5c786f699b63d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Electronic_Shopping">7f9bbbb82fd450105fb5c786f699b63d</sys_scope>
+        <sys_update_name>sys_sg_data_item_a30ff3bc2fd450105fb5c786f699b60e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-18 19:55:06</sys_updated_on>
+        <table>x_462903_electroni_configuration_items</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=a30ff3bc2fd450105fb5c786f699b60e"/>
+</record_update>

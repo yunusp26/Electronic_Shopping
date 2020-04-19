@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Electronic Part Rental">caf1c4812f1850105fb5c786f699b6ae</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-18 20:07:50</sys_created_on>
+        <sys_id>0ef1c4812f1850105fb5c786f699b6b7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Electronic Part Rental</sys_name>
+        <sys_package display_value="Electronic_Shopping" source="x_462903_electroni">7f9bbbb82fd450105fb5c786f699b63d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Electronic_Shopping">7f9bbbb82fd450105fb5c786f699b63d</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_0ef1c4812f1850105fb5c786f699b6b7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-18 20:07:50</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Electronic_Shopping">7f9bbbb82fd450105fb5c786f699b63d</application>
+        <file_path/>
+        <instance_id>399f219adbd940140ae3ac44d49619be</instance_id>
+        <instance_name>dev95260</instance_name>
+        <name>sc_cat_item_catalog_0ef1c4812f1850105fb5c786f699b6b7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Electronic Part Rental">caf1c4812f1850105fb5c786f699b6ae</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-18 20:07:50</sys_created_on><sys_id>0ef1c4812f1850105fb5c786f699b6b7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Electronic Part Rental</sys_name><sys_package display_value="Electronic_Shopping" source="x_462903_electroni">7f9bbbb82fd450105fb5c786f699b63d</sys_package><sys_policy/><sys_scope display_value="Electronic_Shopping">7f9bbbb82fd450105fb5c786f699b63d</sys_scope><sys_update_name>sc_cat_item_catalog_0ef1c4812f1850105fb5c786f699b6b7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-18 20:07:50</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-1383754957</payload_hash>
+        <record_name>Service Catalog.Electronic Part Rental</record_name>
+        <reverted_from/>
+        <source>bb9bbbb82fd450105fb5c786f699b640</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-18 20:07:50</sys_created_on>
+        <sys_id>86f188812f1850105fb5c786f699b6ca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1718ee788e70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-18 20:07:50</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>cef18881b71850102004459379f67cc9</update_guid>
+        <update_guid_history>cef18881b71850102004459379f67cc9:-1383754957</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Electronic Part Rental">02025c812f5850105fb5c786f699b6ea</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-18 21:18:01</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>3e9a3ba9e83149398b6a33854e848b91</sys_id>
+        <sys_metadata>0ef1c4812f1850105fb5c786f699b6b7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Electronic Part Rental</sys_name>
+        <sys_package display_value="Electronic_Shopping" source="x_462903_electroni">7f9bbbb82fd450105fb5c786f699b63d</sys_package>
+        <sys_parent display_value="">caf1c4812f1850105fb5c786f699b6ae</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Electronic_Shopping">7f9bbbb82fd450105fb5c786f699b63d</sys_scope>
+        <sys_scope_delete display_value="">a4b1541d76cc4340abc7883e468b7b69</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_0ef1c4812f1850105fb5c786f699b6b7</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_0ef1c4812f1850105fb5c786f699b6b7">86f188812f1850105fb5c786f699b6ca</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-18 21:18:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

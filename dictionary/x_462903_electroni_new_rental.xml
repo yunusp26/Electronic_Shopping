@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sc_request" label="New Rental" max_length="40" name="x_462903_electroni_new_rental" type="collection">
+        <element label="End Date" max_length="40" name="end_date" type="glide_date"/>
+        <element display="true" label="Start Date" max_length="40" name="start_date" type="glide_date"/>
+    </element>
+</database>
